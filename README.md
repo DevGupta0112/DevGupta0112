@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dev Kumar Gupta</h1>
+<h1 align="center">Hii 👋, I'm Dev Kumar Gupta</h1>
 <h3 align="center">A passionate Data Analyst seeking to deep dive into the world of Data!!!</h3>
 
 <p align="center">
@@ -6,6 +6,21 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAD6&center=true&vCenter=true&width=600&lines=Turning+ideas+into+reality+with+code!;Building+scalable+and+robust+solutions+🌟;Exploring+world+of+AI+and+Web+Development+✨" />
+</p>
+
+---
+
+<h2>🌟 About Me</h2>
+<ul>
+  <li>🌍 Based in <strong>Indore, India</strong></li>
+  <li>💻 Currently working on <strong>Machine learning Models </strong>, And Data Analytics</li>
+  <li>📚 Always learning and exploring <strong>Data & Documentations</strong></li>
+  <li>🤝 Looking to collaborate on exciting <strong>open-source projects</strong></li>
+</ul>
+
 
 <h2 align="center">🚀 Languages and Tools I Use</h2>
 <p align="center">

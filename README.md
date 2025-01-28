@@ -8,7 +8,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAD6&center=true&vCenter=true&width=600&lines=Transforming +raw +data +into+ actionable+ insights+✨;Turning+ideas+into+reality+with+code!;Exploring+world+of+AI+and+Data+✨" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=D3FAD6&center=true&vCenter=true&width=600&lines=Transforming+raw+data +into+ actionable+ insights+✨;Turning+ideas+into+reality+with+code!;Exploring+world+of+AI+and+Data+✨" />
 </p>
 
 ---

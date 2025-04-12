@@ -15,7 +15,7 @@
 
 <h2>🌟 About Me</h2>
 <ul>
-  <li>🌍 Based in <strong>Indore, India</strong></li>
+  <li>🌍 Based in <strong>Indore, MP ,India</strong></li>
   <li>💻 Currently working on <strong>Machine learning Models </strong>, And Data Analytics</li>
   <li>📚 Always learning and exploring <strong>Data & Documentations</strong></li>
   <li>🤝 Looking to collaborate on exciting <strong>open-source projects</strong></li>

@@ -11,14 +11,26 @@
 
 ---
 
-## 🧠 About Me  
-- 📍 From **Indore, Madhya Pradesh (India)**
-- 👨‍💻 Final-year B.Tech in **Data Science**
-- 🧠 Passionate about **Data Analytics, Machine Learning, and Business Intelligence**
-- ⚙️ Skilled in **EDA, Visualization, Predictive Modeling, APIs, SQL, Cloud**
-- 💡 Learning from **real-world projects**, building and experimenting consistently
-- 📊 Building portfolio projects to solve **actual business problems**
-- 🤝 Open to **internships, freelance, research, and collaboration opportunities**
+## 👨‍💻 About Me  
+
+<div align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="coding gif"/>
+</div>
+
+- 🎓 Final-year B.Tech Student in **Data Science**  
+- 🌍 Living in **Indore, Madhya Pradesh, India**  
+- 💻 Currently working on **ML models, Exploratory Data Analysis, Dashboards**  
+- 📊 Fascinated by **Data Visualization, Time-Series Forecasting & Predictive Analytics**  
+- 🔍 Always exploring **new tools & real-world datasets** to find hidden insights  
+- 🧩 Focused on solving **business problems** with **data-driven decisions**  
+- 💡 Believe in: *"If you torture the data long enough, it will confess to anything."* 😉  
+- 🤝 Actively looking to **collaborate on open-source, internships, and freelancing projects**  
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Data%20Analytics-Driven-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-Lover-orange?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20Enthusiast-Azure-blueviolet?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+</p>
 
 ---
 

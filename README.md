@@ -55,18 +55,69 @@
 
 ---
 
-## 🔥 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 📊 **Sales Dashboard (Power BI)** | Visualized multi-regional sales data for actionable insights | Power BI, Excel |
-| 🧠 **Loan Prediction ML App** | Predicts loan approval status via Flask-based web app | Python, Scikit-learn, Flask |
-| 📉 **Stock Price Forecasting** | Time series prediction using Facebook Prophet | Python, Prophet, Pandas |
-| 📌 **Crime Data Analysis** | Analyzed India crime trends with dashboards and charts | Python, Seaborn, GeoPandas |
+## 🚀 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/DevGupta0112?tab=repositories"><img src="https://img.shields.io/badge/-🔍%20See%20My%20Projects-blueviolet?style=for-the-badge" /></a>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY3NsOWMxdXBybWpvbG9nMG84bXU3NGl0MGwwbW83dG1ucGVpajZ3aiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
 </p>
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>📊 Sales Dashboard</h3>
+      <p>📌 A dynamic dashboard for multi-region sales analytics</p>
+      <ul>
+        <li>Power BI + Excel-based solution</li>
+        <li>Key Metrics: Revenue, Profit, YoY Growth</li>
+        <li>Custom filters and slicers</li>
+      </ul>
+      <p><strong>🔧 Tech:</strong> Power BI, Excel, DAX</p>
+      <a href="https://github.com/DevGupta0112/Sales-Dashboard" target="_blank">🔗 View Project</a>
+    </td>
+    <td width="50%">
+      <h3>🧠 Loan Prediction App</h3>
+      <p>📌 Web app to predict loan approvals with user input</p>
+      <ul>
+        <li>Model trained on customer demographics</li>
+        <li>Deployed with Flask</li>
+        <li>Frontend using simple HTML/CSS</li>
+      </ul>
+      <p><strong>🔧 Tech:</strong> Python, Scikit-learn, Flask</p>
+      <a href="https://github.com/DevGupta0112/Loan-Predictor" target="_blank">🔗 View Project</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>📉 Stock Price Forecasting</h3>
+      <p>📌 Built a predictive model using time-series data</p>
+      <ul>
+        <li>Used Facebook Prophet for forecasts</li>
+        <li>Visualized trends & seasonality</li>
+        <li>Used financial APIs for real-time data</li>
+      </ul>
+      <p><strong>🔧 Tech:</strong> Python, Prophet, Pandas, Matplotlib</p>
+      <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>
+    </td>
+    <td width="50%">
+      <h3>📌 Crime Data Analysis</h3>
+      <p>📌 Analyzed patterns in Indian crime data</p>
+      <ul>
+        <li>Cleaned large datasets for visualization</li>
+        <li>Mapped crimes with heatmaps</li>
+        <li>Analyzed per-state trends</li>
+      </ul>
+      <p><strong>🔧 Tech:</strong> Python, GeoPandas, Seaborn</p>
+      <a href="https://github.com/DevGupta0112/Crime-Data-India" target="_blank">🔗 View Project</a>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://github.com/DevGupta0112?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Explore%20More%20Projects-🧠-informational?style=for-the-badge" />
+  </a>
+</p>
+
 
 ---
 

@@ -95,7 +95,7 @@
     </td>
     <td width="50%" align="center">
       <h3>🧠 Loan Prediction App</h3>
-      <p>Web app to predict loan approvals using ML</p>
+      <p>Web app to predict loan approvals using ML </p>
       <ul align="left">
         <li>Model trained on customer demographics</li>
         <li>Deployed using Flask</li>

@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=24&pause=1000&color=F7D747&center=true&vCenter=true&width=700&lines=Data+Drives+Decisions%2C+I+Drive+Data!;Making+raw+data+talk+with+code+🧠;"/>
+  <img src="https://readme-typing-svg.demolab.com? font=Fira+Code&weight=500&size=24&pause=1000&color=F7D747&center=true&vCenter=true&width=700&lines=Data+Drives+Decisions%2C+I+Drive+Data!;Making+raw+data+talk+with+code+🧠;Analytics+%7C+ML+%7C+Insights+%7C+Automation;Always+learning.+Always+building+💡"/>
 </p>
 
 ---

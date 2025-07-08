@@ -93,8 +93,8 @@
       <a href="https://github.com/DevGupta0112/Sales-Dashboard" target="_blank">🔗 View Project</a>
     </td>
     <td width="50%" align="center">
-      <h3>🧠 Loan Prediction App</h3>
-      <p>Web app to predict loan approvals using ML </p>
+      <h3>🧠 Cancer Detection App</h3>
+      <p>Web app to detect  breast cancer using ML </p>
       <ul align="left">
         <li>Model trained on customer demographics</li>
         <li>Deployed using Flask</li>

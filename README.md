@@ -116,7 +116,7 @@
       <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>
     </td>
     <td width="50%" align="center">
-      <h3>📌 Crime Data Analysis</h3>
+      <h3>📌 Credit Card Fruad </h3>
       <p>Exploratory analysis on Indian crime statistics</p>
       <ul align="left">
         <li>Cleaned & visualized regional crime trends</li>

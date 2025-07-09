@@ -96,7 +96,7 @@
       <h3>🧠 Cancer Detection App</h3>
       <p>Web app to detect  breast cancer using ML </p>
       <ul align="left">
-        <li>Model trained on customer demographics</li>
+        <li>Model trained on Realworld Pateint Data</li>
         <li>Deployed using Flask</li>
         <li>Simple and clean interface</li>
       </ul>

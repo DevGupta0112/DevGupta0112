@@ -1,12 +1,11 @@
 <h1 align="center">Hey there! 👋 I'm Dev Kumar Gupta</h1>
 <h3 align="center">🚀 Data Enthusiast | Aspiring Analyst | Machine Learning Explorer</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="waving hello gif"/>
-</p>
+
+<p align="center"><em>Always learning. Always growing.</em></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=F7D747&center=true&vCenter=true&width=700&lines=Data+Drives+Decisions%2C+I+Drive+Data!;Making+raw+data+talk+with+code+🧠;Analytics+%7C+ML+%7C+Insights+%7C+Automation;Always+learning.+Always+building+💡"/>
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="waving hello gif"/>
 </p>
 
 ---

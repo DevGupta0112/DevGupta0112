@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Featured Projects
+<h2 align="center">🌟 Featured Projects</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif" width="200" />
@@ -72,7 +72,7 @@
 
 ---
 
-## 🏅 Achievements & Certifications
+<h2 align="center">🏅 Achievements & Certifications</h2>
 
 - 🏆 **3rd Place** – Altair Data Science Contest, BITS Pilani Hyderabad
 - 🎓 **Google Professional Data Analytics Certification**
@@ -81,7 +81,7 @@
 
 ---
 
-## 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" alt="coding gif"/>
@@ -103,7 +103,7 @@
 
 ---
 
-## 🚀 Tech Stack & Tools
+<h2 align="center">🚀 Tech Stack & Tools</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -149,7 +149,7 @@
 
 ---
 
-## 📈 GitHub Stats
+<h2 align="center">📈 GitHub Stats</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DevGupta0112&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -160,7 +160,7 @@
 
 ---
 
-## 🌐 Connect with Me
+<h2 align="center">🌐 Connect with Me</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-kumar-gupta-1358a0250/" target="_blank">

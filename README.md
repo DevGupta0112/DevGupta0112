@@ -180,3 +180,7 @@
 
 <h3 align="center">🌱 Let's grow together and turn data into decisions.</h3>
 <h4 align="center">💡 “Empowering the world, one dataset at a time.”</h4>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DevGupta0112&style=flat-square&color=blue" alt="Profile Views"/>
+</p>

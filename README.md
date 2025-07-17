@@ -74,11 +74,11 @@
 
 <h2 align="center">🏅 Achievements & Certifications</h2>
 
-- 🏆 **3rd Place** – Altair Data Science Contest, BITS Pilani Hyderabad  
-- 🎓 **Google Data Analytics Capstone (Coursera)** – [Verify](https://coursera.org/verify/RPF9UXEW8W5X)  
-- 📊 **Introduction to Data Analysis using Excel (Coursera)** – [Verify](https://coursera.org/verify/QAQ4DW7P46U9)  
-- ⭐ **3 Stars in SQL** – HackerRank
 
+- 🏆 **3rd Place** – Altair Data Science Contest, BITS Pilani Hyderabad *(2023)*  
+- 🎓 **Google Data Analytics Capstone (Coursera)** *(Sep 2023)* – [Verify](https://coursera.org/verify/RPF9UXEW8W5X)  
+- 📊 **Introduction to Data Analysis using Excel (Coursera)** *(Feb 2024)* – [Verify](https://coursera.org/verify/QAQ4DW7P46U9)  
+- ⭐ **3 Stars in SQL** – HackerRank
 ---
 
 <h2 align="center">👨‍💻 About Me</h2>
@@ -93,7 +93,7 @@
 - 📊 Passionate about **Data Visualization, Time-Series Forecasting & Insight Extraction**
 - 🧠 Experienced in solving business problems using real-world datasets
 - 🧩 Strong communicator and team player with experience leading student project teams
-- 🌐 💼 Personal Portfolio (Launching August 2025)
+- 🌐 Personal Portfolio (Launching August 2025)
 - 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">

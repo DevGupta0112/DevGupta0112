@@ -89,11 +89,11 @@
 
 - 🎓 Final-year B.Tech Student in **Data Science**
 - 🌍 Based in **Indore, Madhya Pradesh, India**
-- 💻 Currently building **ML models, dashboards, and EDA reports**
+- 💻 Currently building a **Power BI Sales Performance Dashboard** and an **ML-based Stock Trend Classifier**
 - 📊 Passionate about **Data Visualization, Time-Series Forecasting & Insight Extraction**
 - 🧠 Experienced in solving business problems using real-world datasets
 - 🧩 Strong communicator and team player with experience leading student project teams
-- 🌐 Portfolio in progress — stay tuned!
+- 🌐 💼 Personal Portfolio (Launching August 2025)
 - 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">

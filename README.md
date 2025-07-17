@@ -90,16 +90,18 @@
 - 🎓 Final-year B.Tech Student in **Data Science**
 - 🌍 Based in **Indore, Madhya Pradesh, India**
 - 💻 Currently building **ML models, dashboards, and EDA reports**
-- 📊 Passionate about **Data Visualization, Time-Series Forecasting & Insights**
-- 🧠 Exploring real-world datasets to solve **business problems**
-- 🤝 Open to **collaborations, open-source, internships, freelancing**
-- 💡 Motto: *"If you torture the data long enough, it will confess to anything."*
+- 📊 Passionate about **Data Visualization, Time-Series Forecasting & Insight Extraction**
+- 🧠 Experienced in solving business problems using real-world datasets
+- 🧩 Strong communicator and team player with experience leading student project teams
+- 🌐 Portfolio in progress — stay tuned!
+- 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">
   <a href="/DevGupta__Analyst.pdf" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
+
 
 ---
 

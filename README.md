@@ -163,7 +163,7 @@
 
 ---
 
-<h2 align="center">🌐 Connect with Me</h2>
+<h2 align="center">🌐 Connect with Me </h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dev-kumar-gupta-1358a0250/" target="_blank">
@@ -184,4 +184,8 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DevGupta0112&style=flat-square&color=blue" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  <em>🕒 Last updated on: <strong>July 17, 2025</strong></em>
 </p>

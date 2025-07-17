@@ -74,10 +74,10 @@
 
 <h2 align="center">🏅 Achievements & Certifications</h2>
 
-- 🏆 **3rd Place** – Altair Data Science Contest, BITS Pilani Hyderabad
-- 🎓 **Google Professional Data Analytics Certification**
-- 📜 **Data Analysis with Microsoft Excel** (Coursera)
-- ⭐ **3 Stars in SQL** on HackerRank
+- 🏆 **3rd Place** – Altair Data Science Contest, BITS Pilani Hyderabad  
+- 🎓 **Google Data Analytics Capstone (Coursera)** – [Verify](https://coursera.org/verify/RPF9UXEW8W5X)  
+- 📊 **Introduction to Data Analysis using Excel (Coursera)** – [Verify](https://coursera.org/verify/QAQ4DW7P46U9)  
+- ⭐ **3 Stars in SQL** – HackerRank
 
 ---
 

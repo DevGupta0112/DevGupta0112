@@ -97,11 +97,10 @@
 - 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">
-  <a href="/DevGupta__Analyst.pdf" target="_blank">
+  <a href="https://drive.google.com/file/d/1NkGsUFTeNvsPowsXvHv5Zo/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
-
 
 ---
 

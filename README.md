@@ -97,8 +97,8 @@
 - 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">
-  <a href="[https://drive.google.com/file/d/1NkGsUFTeNvsPowsXvHv5Zo/view?usp=sharing](https://drive.google.com/drive/folders/19F4jusLRSB_m-QAAD-Yaz2i1lOnGNMQw?usp=sharing)" target="_blank">
-    <img src="https://img.shields.io/badge/View%20My%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Resume Badge"/>
+  <a href="https://drive.google.com/drive/folders/19F4jusLRSB_m-QAAD-Yaz2i1lOnGNMQw?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/View%20All%20My%20Resumes-Google%20Drive-blue?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume Badge"/>
   </a>
 </p>
 

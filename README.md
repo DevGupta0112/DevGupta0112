@@ -52,7 +52,7 @@
       </ul>
       <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p>
       <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
+      <a href="https://huggingface.co/spaces/DevGupta0112/stock" target="_blank">🚀 Live Demo</a>
     </td>
     <td width="50%" align="center">
       <h3>🔍 Credit Card Fraud Detection</h3>

@@ -39,6 +39,7 @@
       </ul>
       <p><strong>Tech:</strong> Python, Flask, Scikit-learn</p>
       <a href="https://github.com/DevGupta0112/Breast-Cancer-Detection" target="_blank">🔗 View Project</a>
+      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -51,6 +52,7 @@
       </ul>
       <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p>
       <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>
+      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
     <td width="50%" align="center">
       <h3>🔍 Credit Card Fraud Detection</h3>
@@ -61,6 +63,7 @@
       </ul>
       <p><strong>Tech:</strong> Python, Scikit-learn, Seaborn</p>
       <a href="https://github.com/DevGupta0112/Credit-Card-Fraud-Detection" target="_blank">🔗 View Project</a>
+      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
 </table>

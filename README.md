@@ -27,6 +27,7 @@
       </ul>
       <p><strong>Tech:</strong> Power BI, Excel, DAX</p>
       <a href="https://github.com/DevGupta0112/Sales-Dashboard" target="_blank">🔗 View Project</a>
+      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
     <td width="50%" align="center">
       <h3>🧠 Cancer Detection App</h3>

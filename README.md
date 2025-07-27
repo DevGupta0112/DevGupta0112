@@ -38,7 +38,7 @@
         <li>Simple and clean interface</li>
       </ul>
       <p><strong>Tech:</strong> Python, Flask, Scikit-learn</p>
-      <a href="https://github.com/DevGupta0112/Breast-Cancer-Detection" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/DevGupta0112/Breast-Cancer-Detection" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
       <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
@@ -51,7 +51,7 @@
         <li>Used Yahoo Finance API for real-time data</li>
       </ul>
       <p><strong>Tech:</strong> Python, Pandas, Matplotlib</p>
-      <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/DevGupta0112/Stock-Predictor" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
       <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
     <td width="50%" align="center">
@@ -62,7 +62,7 @@
         <li>Classification model for fraud detection</li>
       </ul>
       <p><strong>Tech:</strong> Python, Scikit-learn, Seaborn</p>
-      <a href="https://github.com/DevGupta0112/Credit-Card-Fraud-Detection" target="_blank">🔗 View Project</a>
+      <a href="https://github.com/DevGupta0112/Credit-Card-Fraud-Detection" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;&nbsp;
       <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>

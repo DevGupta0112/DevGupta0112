@@ -38,8 +38,8 @@
         <li>Simple and clean interface</li>
       </ul>
       <p><strong>Tech:</strong> Python, Flask, Scikit-learn</p>
-      <a href="https://github.com/DevGupta0112/Breast-Cancer-Detection" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
-      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
+      <a href="https://github.com/DevGupta0112/applied_Machine_Learning/tree/main/Cancer_prediction" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://breastcancerdetection-lr.streamlit.app/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
   <tr>

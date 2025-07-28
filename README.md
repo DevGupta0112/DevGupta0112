@@ -62,8 +62,8 @@
         <li>Classification model for fraud detection</li>
       </ul>
       <p><strong>Tech:</strong> Python, Scikit-learn, Seaborn</p>
-      <a href="https://github.com/DevGupta0112/Credit-Card-Fraud-Detection" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;&nbsp;
-      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
+      <a href="https://github.com/DevGupta0112/applied_Machine_Learning/tree/main/fruad_detection" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;&nbsp;
+      <a href="https://appliedmachinelearning-fruaddetection.streamlit.app/" target="_blank">🚀 Live Demo</a>
     </td>
   </tr>
 </table>

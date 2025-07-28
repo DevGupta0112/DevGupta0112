@@ -18,23 +18,17 @@
 <table align="center" width="100%">
   <tr>
 <td width="50%" align="center">
-  <h3>📊 Sales Dashboard</h3>
-  <p>A dynamic dashboard for multi-region sales analytics</p>
-  <ul align="left">
-    <li>Power BI + Excel-based solution</li>
-    <li>Metrics: Revenue, Profit, YoY Growth</li>
-    <li>Interactive filters and slicers</li>
-  </ul>
-  <p><strong>Tech:</strong> Power BI, Excel, DAX</p>
-  <p>
-    <a href="https://github.com/DevGupta0112/Sales-Dashboard" target="_blank">
-      <img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
-    </a>&nbsp;&nbsp;
-    <a href="https://project-demo-link.com" target="_blank">
-      <img src="https://img.shields.io/badge/Live%20Demo-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" />
-    </a>
-  </p>
-</td>
+      <h3>📊 Sales Dashboard</h3>
+      <p>A dynamic dashboard for multi-region sales analytics</p>
+      <ul align="left">
+        <li>Power BI + Excel-based solution</li>
+        <li>Metrics: Revenue, Profit, YoY Growth</li>
+        <li>Interactive filters and slicers</li>
+      </ul>
+      <p><strong>Tech:</strong> Power BI, Excel, DAX</p>
+      <a href="https://github.com/DevGupta0112/Sales-Dashboard" target="_blank">🔗 View Project</a>&nbsp;&nbsp;&nbsp;
+      <a href="https://project-demo-link.com" target="_blank">🚀 Live Demo</a>
+    </td>
     <td width="50%" align="center">
       <h3>🧠 Cancer Detection App</h3>
       <p>Web app to detect breast cancer using ML</p>

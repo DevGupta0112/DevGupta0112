@@ -97,7 +97,7 @@
 - 📊 Passionate about **Data Visualization, Time-Series Forecasting & Insight Extraction**
 - 🧠 Experienced in solving business problems using real-world datasets
 - 🧩 Strong communicator and team player with experience leading student project teams
-- 🌐 Personal Portfolio (Launching August 2025)
+- 🌐 <a href="http://devgupta-portfolio.vercel.app/" target="_blank"><strong>Personal Portfolio</strong></a>
 - 🤝 Open to **collaborations, internships, freelancing opportunities**
 
 <p align="center">

@@ -18,7 +18,7 @@
 <table align="center" width="100%">
   <tr>
 <td width="50%" align="center">
-      <h3>📊 Sales Dashboard</h3>
+      <h3>📊 Sales Dashboard </h3>
       <p>A dynamic dashboard for multi-region sales analytics</p>
       <ul align="left">
         <li>Power BI + Excel-based solution</li>

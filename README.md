@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="300" alt="waving hello gif"/>
 </p>
 
-<p align="center"><em>Always learning. Always growing.</em></p>
+<p align="center"><em>Always learning. Always growing. </em></p>
 
 ---
 
